@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 2a442ab16c54f714dbe0bde092669297
+timeCreated: 1526213385
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AbdominalArmour
+    100002: Chest
+    100004: Cowl
+    100006: Crotch
+    100008: CrotchArmour
+    100010: Head
+    100012: HipPiston
+    100014: //RootNode
+    100016: LeftBicep
+    100018: LeftBicepGrill
+    100020: LeftCalf
+    100022: LeftElbow
+    100024: LeftFoot
+    100026: LeftFootprint
+    100028: LeftJointArmour
+    100030: LeftShoulderJoint
+    100032: LeftShoulderMechanism
+    100034: LefttForearm
+    100036: LefttHand
+    100038: LeftThighPiston
+    100040: Piping
+    100042: PistolBarrel
+    100044: PistolBody
+    100046: PistolMechanisms
+    100048: Ribs
+    100050: RightBicep
+    100052: RightBicepGrill
+    100054: RightCalf
+    100056: RightElbow
+    100058: RightFoot
+    100060: RightFootPrint
+    100062: RightForearm
+    100064: RightHand
+    100066: RightJointArmour
+    100068: RightShoulderJoint
+    100070: RightShoulderMechanism
+    100072: RightThighPiston
+    100074: ShoulderBlades
+    100076: Shoulders
+    100078: ShoulderSocket
+    100080: Spine
+    100082: TurbineHousing
+    100084: Turbines
+    100086: Visor
+    400000: AbdominalArmour
+    400002: Chest
+    400004: Cowl
+    400006: Crotch
+    400008: CrotchArmour
+    400010: Head
+    400012: HipPiston
+    400014: //RootNode
+    400016: LeftBicep
+    400018: LeftBicepGrill
+    400020: LeftCalf
+    400022: LeftElbow
+    400024: LeftFoot
+    400026: LeftFootprint
+    400028: LeftJointArmour
+    400030: LeftShoulderJoint
+    400032: LeftShoulderMechanism
+    400034: LefttForearm
+    400036: LefttHand
+    400038: LeftThighPiston
+    400040: Piping
+    400042: PistolBarrel
+    400044: PistolBody
+    400046: PistolMechanisms
+    400048: Ribs
+    400050: RightBicep
+    400052: RightBicepGrill
+    400054: RightCalf
+    400056: RightElbow
+    400058: RightFoot
+    400060: RightFootPrint
+    400062: RightForearm
+    400064: RightHand
+    400066: RightJointArmour
+    400068: RightShoulderJoint
+    400070: RightShoulderMechanism
+    400072: RightThighPiston
+    400074: ShoulderBlades
+    400076: Shoulders
+    400078: ShoulderSocket
+    400080: Spine
+    400082: TurbineHousing
+    400084: Turbines
+    400086: Visor
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: 03 - Default
+    2100006: 07 - Default
+    2100008: 08 - Default
+    2100010: 09 - Default
+    2300000: AbdominalArmour
+    2300002: Chest
+    2300004: Cowl
+    2300006: Crotch
+    2300008: CrotchArmour
+    2300010: Head
+    2300012: HipPiston
+    2300014: //RootNode
+    2300016: LeftBicep
+    2300018: LeftBicepGrill
+    2300020: LeftCalf
+    2300022: LeftElbow
+    2300024: LeftFoot
+    2300026: LeftFootprint
+    2300028: LeftJointArmour
+    2300030: LeftShoulderJoint
+    2300032: LeftShoulderMechanism
+    2300034: LefttForearm
+    2300036: LefttHand
+    2300038: LeftThighPiston
+    2300040: Piping
+    2300042: PistolBarrel
+    2300044: PistolBody
+    2300046: PistolMechanisms
+    2300048: Ribs
+    2300050: RightBicep
+    2300052: RightBicepGrill
+    2300054: RightCalf
+    2300056: RightElbow
+    2300058: RightFoot
+    2300060: RightFootPrint
+    2300062: RightForearm
+    2300064: RightHand
+    2300066: RightJointArmour
+    2300068: RightShoulderJoint
+    2300070: RightShoulderMechanism
+    2300072: RightThighPiston
+    2300074: ShoulderBlades
+    2300076: Shoulders
+    2300078: ShoulderSocket
+    2300080: Spine
+    2300082: TurbineHousing
+    2300084: Turbines
+    2300086: Visor
+    3300000: AbdominalArmour
+    3300002: Chest
+    3300004: Cowl
+    3300006: Crotch
+    3300008: CrotchArmour
+    3300010: Head
+    3300012: HipPiston
+    3300014: //RootNode
+    3300016: LeftBicep
+    3300018: LeftBicepGrill
+    3300020: LeftCalf
+    3300022: LeftElbow
+    3300024: LeftFoot
+    3300026: LeftFootprint
+    3300028: LeftJointArmour
+    3300030: LeftShoulderJoint
+    3300032: LeftShoulderMechanism
+    3300034: LefttForearm
+    3300036: LefttHand
+    3300038: LeftThighPiston
+    3300040: Piping
+    3300042: PistolBarrel
+    3300044: PistolBody
+    3300046: PistolMechanisms
+    3300048: Ribs
+    3300050: RightBicep
+    3300052: RightBicepGrill
+    3300054: RightCalf
+    3300056: RightElbow
+    3300058: RightFoot
+    3300060: RightFootPrint
+    3300062: RightForearm
+    3300064: RightHand
+    3300066: RightJointArmour
+    3300068: RightShoulderJoint
+    3300070: RightShoulderMechanism
+    3300072: RightThighPiston
+    3300074: ShoulderBlades
+    3300076: Shoulders
+    3300078: ShoulderSocket
+    3300080: Spine
+    3300082: TurbineHousing
+    3300084: Turbines
+    3300086: Visor
+    4300000: Body
+    4300002: AbdominalArmour
+    4300004: Spine
+    4300006: Cowl
+    4300008: HipPiston
+    4300010: Piping
+    4300012: Ribs
+    4300014: TurbineHousing
+    4300016: Turbines
+    4300018: Shoulders
+    4300020: ShoulderBlades
+    4300022: ShoulderSocket
+    4300024: Chest
+    4300026: Crotch
+    4300028: CrotchArmour
+    4300030: LeftThighPiston
+    4300032: LeftJointArmour
+    4300034: LeftCalf
+    4300036: LeftFoot
+    4300038: LeftFootprint
+    4300040: RightThighPiston
+    4300042: RightCalf
+    4300044: RightFoot
+    4300046: RightFootPrint
+    4300048: RightJointArmour
+    4300050: Head
+    4300052: Visor
+    4300054: RightBicep
+    4300056: RightBicepGrill
+    4300058: RightShoulderJoint
+    4300060: RightShoulderMechanism
+    4300062: RightElbow
+    4300064: RightForearm
+    4300066: RightHand
+    4300068: LeftBicep
+    4300070: LeftBicepGrill
+    4300072: LeftElbow
+    4300074: LefttForearm
+    4300076: LefttHand
+    4300078: PistolBody
+    4300080: PistolMechanisms
+    4300082: PistolBarrel
+    4300084: LeftShoulderJoint
+    4300086: LeftShoulderMechanism
+    7400000: PlayerWalk
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PlayerWalk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
